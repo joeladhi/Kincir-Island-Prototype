@@ -1,0 +1,28 @@
+{
+  "name": "kincir-island",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.4.3",
+    "@heroicons/vue": "^1.0.5",
+    "@ocrv/vue-tailwind-pagination": "^0.0.4",
+    "apexcharts": "^3.33.0",
+    "axios": "^0.25.0",
+    "vue": "^3.2.25",
+    "vue-json-csv": "^1.2.12",
+    "vue-json-excel": "^0.3.0",
+    "vue-router": "^4.0.12",
+    "vue3-apexcharts": "^1.4.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15",
+    "vite": "^2.7.2"
+  }
+}
