@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "kincir-islands",
+    "private_key_id": "aad88f8bfec2916d5a771908303c762a7e48a2fc",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDSf+/Eu1DfFKuo\n1Wx7s6I4qVLvoieJSkktX/LUuqDYtF9n85RJdZPw+N84iJIohluCuDs88bgjAdlr\nkkpFdpxVNt7dE502NopSb46OpskwAVx24Fi9nD8+/8uIccqJYDFrESwdjrlQj5FV\ntjCziwa0tZKkPqnCppfbBnWp1pSR4zwVDAOnFCs5BJo2EGgwrtMMqXY1DCX6N3h0\nt4fCIw+YizIFFb8Eyx8W0Ibs7trpywDOOwVdHpa45xsEK9eb4RFujnEKWNZj8qGf\n0BMoGpD6nLmeqZkjY+jC11IK/sti4tpyEbXQhZ0ybTI3KLpOtRiAwXGOCRZC/t8S\nXEXcg15BAgMBAAECggEAVNYlHyfTTyU4jeH+R9i8/5MWjufOgWGEHpp19tCEtPH1\nJaMg135gspTK+jDonxaPWR7BGS3eZZWAN/+MmXRVS27C4VzfVpMiqli1nr6PhR53\nUp3Whgyr3MshD4u08irnn9wa6Iq2G0bRbzbvZ90XRcuMH0/2ATI9L5Pp5hpKZITy\nQTmYwO3zoXuWfnTnt/dbw5+OXL/Udv0xOL3Uf0aKsX0xjAkdvCdMpYPFQl1d8Dyb\nKj84vgxVlrEZI1BKZTNvy5I9sCWDhZfzk4z9u/PS36fqK2M7M+e4r4zpdjx/amzO\ncnNR70fzGxGglR2P8bA6FAVPZgToC813ePLb2RiOdQKBgQDz1RGslqITmbzdqtCb\nlSGrDL/W572D0fzsM4ov6ph77UtcGN2qxAM7IMKzOtn+CS1JoUj7090ooxx9NW56\nijgVh41BiOH5VIzk6BvpXQnTyx7qCvkV76Yy0bhevZP5vmZlwT5g8C9qTNKbzIIC\nch3PAzYvt1TTJuv86vN3hbbFdwKBgQDdAQxC3FBvf0PIRWTIcPQUjqp1V2yIIqY5\n5BVD8V7ifE+nJ9lFszThlCOvXjL7s9K6WyT4SAu1rl57dFYgBdPaRTZiLrXbN7Pi\nOzE6hcLB3Ljd+gGSg7PRpjRA9HF7F4pCPYeGb7bp2zdmp+yFVXXwQH+uPiLl36DV\nKZFK03nIBwKBgQCLmCBWPqbrsch+35wudmKgGtx5nJLTNRUn5Rnn9Nb3nBLY1yOQ\n8EcpQsg09Cx5U6epz7yI7/JdoYRd6oklfpw9Ny2Xp1Y3+D/xjTDtmWZW6qL4Ou//\nrwPndEmpc7+T632UI94igV+j6/dnWt3TqKGIMr6C8uKNQGs6kQhyFQteYQKBgQDb\nSaLk5L5bI6gaG+D4kjtd+oFglTJ3kgnl/06qb+F6UWansX6BDmQ2QEt4QrvLzI4X\no0B3quUTjMTrMnASrjWbqnlfyoFf11GB9MHQE9E/ksdMWjkdK9lM+OF4YhQH0z+4\nolzLJCYWvRGnpo+lbTrs/NK0DauK8+4eFHS6DkQUGQKBgQCj87c4koQ1vFvLfA+g\nEChHz9KOUVKtN6wxhUc4LOFt0QClvdNljJam/y1KPneWAMzuxjPLHDLYzdcJ57W6\nJWNRmkW4g3W7SB0LohTSBihXrhlYf6mlGSfl7ta1XHMC1sjts5z91UnCoubN+2rW\n1+/HFSc6Y/Lg1s9pijYfqGo/ow==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-6gslu@kincir-islands.iam.gserviceaccount.com",
+    "client_id": "104189142330544022785",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6gslu%40kincir-islands.iam.gserviceaccount.com"
+  }
